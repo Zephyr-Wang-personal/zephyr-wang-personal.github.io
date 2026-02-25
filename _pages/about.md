@@ -27,7 +27,7 @@ My research interest includes Multimodal Fusion, AI4H(Artificial Intelligence fo
 - *2025.06*: &nbsp;🎉🎉 I graduated from Dalian University of Technology undergraduate! 
 
 # 📖 Educations
-- *2025.09 - now*, Ph.D. candidate at School of Data Science, The Chinese University of Hong Kong (Shenzhen), Shenzhen.
+- *2025.09 - now*, Ph.D. student at School of Data Science, The Chinese University of Hong Kong (Shenzhen), Shenzhen.
 - *2021.09 - 2025.06*, B.E. in the International School of Information Science & Engineering, Dalian University of Technology, Dalian.
 
 # 📝 Publications 
